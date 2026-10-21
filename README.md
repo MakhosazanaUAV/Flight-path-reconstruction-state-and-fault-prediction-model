@@ -1,4 +1,4 @@
-# Flight-path-reconstruction-state-and-fault-prediction-model
+# Flight-path-reconstruction-state-model
 This project focused on the computer’s ability to reconstruct, predict and understand the flight path and state of a drone using biased, incomplete and unclean sensor data.  End result was to achieve the automatic prediction of the cause of a drone accident.
 
 Given that loss of control is a vital part of this study, it has to be fully defined. A general definition of loss of control is the significant departure of the aircraft from the flight envelope. Faults investigated were:
